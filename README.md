@@ -4,6 +4,6 @@
   FINHUB_API_KEY=
   API_THRESHOLD_INTERVAL=
 
-- Instal dependencies by running : **npm install**
+- Install dependencies by running : **npm install**
 
 - Run the App : **npm start**
