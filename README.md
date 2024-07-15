@@ -7,3 +7,5 @@
 - Install dependencies by running : **npm install**
 
 - Run the App : **npm start**
+
+- **Download The React APP for UI** : https://github.com/here-aditya/stock-price-app.git
